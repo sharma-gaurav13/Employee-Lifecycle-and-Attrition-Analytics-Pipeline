@@ -1,0 +1,5 @@
+emp_id,full_name,department,job_title,salary,hire_date,status,updated_at
+101,Aarav Sharma,Engineering,Software Engineer,85000.0,2024-01-15,Active,2026-08-10
+102,Priya Patel,Marketing,Senior Marketing Specialist,70000.0,2023-06-10,Active,2026-08-10
+103,Rohan Gupta,Data Science,Data Scientist,95000.0,2022-11-01,Active,2026-08-10
+104,Neha Verma,HR,HR Manager,75000.0,2026-08-10,Active,2026-08-10
